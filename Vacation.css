@@ -1,0 +1,106 @@
+header{
+height:200px;
+background-image: url("https://swlothian.files.wordpress.com/2015/01/travel-banner-e1420885503830.png?w=672&h=281&crop=1");
+}
+ aside{
+ width:20%;
+ }
+
+.left aside{
+height:1000px; 
+float:left;
+background-image: url("http://www.crownpeters.com/wp-content/uploads/2016/05/brwsr_hnpg.jpg");
+background-size: 100% 100%;
+}
+
+.right{
+width:20%;
+height:1000px;
+float:right;
+
+}
+
+.UperRight aside{
+width:100%;
+height:500px;
+float:right
+
+}
+.DownerRight aside{
+width:100%;
+height:500px;
+float:right
+}
+
+.middle{
+width:60%;
+height:1000px;
+float:left;
+}
+
+main{
+width:100%; 
+height:1000px; 
+display:inline-block;
+}
+
+.uper section{
+height:40%;
+}
+.downer section{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9PBu0jfdOiNKEPShR3Cs6PE3b8gx_DI_-MpluzHR7ckvjACQ"):
+height:56.2%;
+
+}
+
+
+footer{
+background-color:gray;
+display:block;
+}
+
+
+.foo1{
+width:24.9%;
+float:right;
+}
+
+.foo2{
+width:24.9%;
+float:left;
+}
+
+nav
+{
+    text-align:center;
+}
+ul li
+{
+    display:inline;
+    padding-left:50px;
+    padding-right:50px;
+    font-size:16px;
+    font-weight:bold;
+}
+em {
+    font-weight: bold;
+    color: red;
+}
+
+label {
+    width: 110px;
+    margin: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+input, select, textarea {
+    width: 200px;
+    margin: 5px;
+}
+input[type = "radio"] {
+    width: 50px;
+}
+input[type = "checkbox"] {
+    width: 50px;
+}
